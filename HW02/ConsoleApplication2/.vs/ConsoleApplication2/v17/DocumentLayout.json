@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\9\\source\\repos\\ConsoleApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70664A46-4433-4520-BD13-D02C41F1C99B}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\9\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70664A46-4433-4520-BD13-D02C41F1C99B}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication2.cpp",
+              "DocumentMoniker": "C:\\Users\\9\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication2\\ConsoleApplication2.cpp",
+              "ToolTip": "C:\\Users\\9\\source\\repos\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "RelativeToolTip": "ConsoleApplication2\\ConsoleApplication2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-29T12:57:55.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
